@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>Jack Rutorial demo 1</name>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Jack Rutorial demo 2</name>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Jack Rutorial demo 3</name>
+    </user>
+</users>
